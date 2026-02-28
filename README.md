@@ -40,19 +40,18 @@ I recreated all 11 sections of the original Cursor website:
 
 ## Screenshots
 
-screenshots/output1.png
-screenshots/output2.png 
-screenshots/output3.png
-screenshots/output4.png
-screenshots/output5.png
-screenshots/output6.png
-screenshots/output7.png
-screenshots/output8.png
-screenshots/output9.png
-screenshots/output10.png 
-screenshots/output11.png
-screenshots/output12.png
-
+![alt text](screenshots/output1.png)
+![alt text](screenshots/output2.png) 
+![alt text](screenshots/output3.png) 
+![alt text](screenshots/output4.png) 
+![alt text](screenshots/output5.png) 
+![alt text](screenshots/output6.png) 
+![alt text](screenshots/output7.png) 
+![alt text](screenshots/output8.png)
+![alt text](screenshots/output9.png) 
+![alt text](screenshots/output10.png) 
+![alt text](screenshots/output11.png)
+![alt text](screenshots/output12.png)
 ---
 
 ## How to Run
