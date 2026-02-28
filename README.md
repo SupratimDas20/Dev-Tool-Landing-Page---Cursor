@@ -6,7 +6,7 @@ A recreation of the [Cursor](https://dev-tool-landing-page.netlify.app/) landing
 
 ## Live Demo
 
-Add your GitHub Pages or Netlify link here once hosted.
+https://dev-tool-landing-page.netlify.app/
 
 ---
 
@@ -28,25 +28,6 @@ I recreated all 11 sections of the original Cursor website:
 
 ---
 
-## Fonts
-
-The site uses **Geist**, a font made by Vercel. If you can't use Geist, **Inter** looks very similar and works as a replacement.
-
----
-
-## Colors
-
-| What it's used for | Color |
-|--------------------|-------|
-| Page background | `#0a0a0a` (near black) |
-| Cards and boxes | `#111111` |
-| Borders and dividers | `#2a2a2a` |
-| Main text | `#ffffff` (white) |
-| Smaller / secondary text | `#888888` (grey) |
-| Buttons | White text on dark background |
-
----
-
 ## Rules Followed
 
 - Only HTML and CSS — no JavaScript
@@ -59,7 +40,18 @@ The site uses **Geist**, a font made by Vercel. If you can't use Geist, **Inter*
 
 ## Screenshots
 
-Add screenshots of your finished page here.
+screenshots/output1.png
+screenshots/output2.png 
+screenshots/output3.png
+screenshots/output4.png
+screenshots/output5.png
+screenshots/output6.png
+screenshots/output7.png
+screenshots/output8.png
+screenshots/output9.png
+screenshots/output10.png 
+screenshots/output11.png
+screenshots/output12.png
 
 ---
 
